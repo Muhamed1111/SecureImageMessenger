@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "257812056710",
+    "project_id": "imagemessenger2",
+    "storage_bucket": "imagemessenger2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257812056710:android:953d112bcc9ca739e71f07",
+        "android_client_info": {
+          "package_name": "com.example.secureimagemessenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY4yt3n6pTgLau7KgswqyuvqhBNKsAls0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
